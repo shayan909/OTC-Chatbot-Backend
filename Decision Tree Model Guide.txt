@@ -1,0 +1,5 @@
+Disease Classes:
+-Whenever a new label is added in Disease Dataset, make sure that one of the two actions are done:
+	1)Write Group diseases together to make their separate model. Order should be kept w.r.t prediction as diseases in later groups or after '-' in a single group might get chalked off.
+	2)Write disease(s) separately when disease have entirely distinct symptoms.
+ 
